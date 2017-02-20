@@ -8,7 +8,7 @@ package polymorphism;
 public class Car {
 	
 	
-	// Run method of Super class
+	// Run method of Super clas
 		public void run() {
 
 			System.out.println("Car is running");
